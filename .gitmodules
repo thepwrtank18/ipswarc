@@ -1,0 +1,9 @@
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "third_party/infozip/zip"]
+	path = third_party/infozip/zip
+	url = https://github.com/LuaDist/zip.git
+[submodule "third_party/7zip"]
+	path = third_party/7zip
+	url = https://github.com/ip7z/7zip.git
